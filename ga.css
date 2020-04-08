@@ -1,0 +1,31 @@
+.game1{
+
+    font-family: "Helvetica Neue LT W05 45 Light",sans-serif,sans-serif;
+    text-align: center;
+}
+
+.back{
+    height: 433px;
+  background: url("img/wa.jpeg") left  top 35%;
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    background: dodgerblue;
+    border: 3px solid white;
+    color: white;
+    padding: 20px;
+
+}
+.ma1{
+    width: 70%;
+    margin: auto;
+}
+.ma1 div{
+    width: 30%;
+    display: inline-block;
+}
+footer{
+    margin-top: 20px;
+}
+

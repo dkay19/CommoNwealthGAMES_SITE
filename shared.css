@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    margin: 0px;
+    font-family: "Helvetica Neue LT W05 45 Light",sans-serif,sans-serif;
+}
+.head1{
+    background: rgb(0,0,0,0.7);
+    color: white;
+    height: 92px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+
+}
+.ups{
+    width: 20%;
+    display: inline-block;
+    vertical-align: 29px;
+    margin-left: 140px;
+}
+.s{
+    vertical-align: middle;
+    display: inline-block;
+    width: 30%;
+}
+.logo{
+    display: inline-block;
+    font-size: 38px;
+    width: 20%;
+    line-height: 32px;
+    vertical-align: baseline;
+    padding: 25px;
+
+
+}
+.logo p{
+    margin: 0px;
+
+}
+
+.nav{
+    width: 50%;
+    float: right;
+    position: relative;
+    left: 95px;
+    top: 25px;
+    vertical-align: baseline;
+
+}
+.ul{
+    margin: 0px;
+    padding: 0px;
+}
+.ul li{
+    display: inline-block;
+    padding: 15px;
+
+
+
+}
+.ul li a{
+    text-decoration: none;
+    color: white;
+
+    padding-bottom: 7px;
+}
+.ul li a:hover{
+    border-bottom: 2px solid grey;
+}
+
+footer{
+    background: rgb(0,0,0,0.1);
+    color: rgb(0,0,0,0.6);
+
+}
+
+.foot{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.foot div{
+    display: inline-block;
+    padding: 30px;
+
+}

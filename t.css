@@ -1,0 +1,24 @@
+.back{
+    height: 300px;
+    background: url("img/wall1.jpg") left bottom 60%;
+}
+section{
+    text-align: center;
+}
+.t{
+    background: orangered;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid white;
+}
+main{
+    padding: 28px;
+    width: 80%;
+    margin: auto;
+}
+main div{
+    width: 30%;
+    margin-top: 10px;
+    display: inline-block;
+}

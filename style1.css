@@ -1,0 +1,188 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    margin: 0px;
+    font-family: "Helvetica Neue LT W05 45 Light",sans-serif,sans-serif;
+}
+.head1{
+    background: rgb(0,0,0,0.7);
+    color: white;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+
+}
+.ups{
+    width: 20%;
+    display: inline-block;
+    vertical-align: 29px;
+    margin-left: 140px;
+}
+.s{
+    vertical-align: middle;
+    display: inline-block;
+    width: 30%;
+}
+.logo{
+    display: inline-block;
+    font-size: 38px;
+    width: 20%;
+    line-height: 32px;
+    vertical-align: baseline;
+    padding: 25px;
+
+
+}
+.logo p{
+    margin: 0px;
+
+}
+
+.nav{
+    width: 50%;
+    float: right;
+   position: relative;
+    left: 95px;
+    top: 25px;
+    vertical-align: baseline;
+
+}
+.ul{
+    margin: 0px;
+    padding: 0px;
+}
+.ul li{
+    display: inline-block;
+    padding: 15px;
+
+
+
+}
+.ul li a{
+    text-decoration: none;
+    color: white;
+
+    padding-bottom: 7px;
+}
+.ul li a:hover{
+    border-bottom: 2px solid grey;
+}
+.sec1{
+    background: url("img/wall.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.man1{
+    padding-top: 27vh;
+    width: 30%;
+    margin: auto;
+    margin-left: 280px;
+}
+.p1 {
+
+    margin: 0px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: rgb(0,0,0,0.8);
+}
+.p2{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0,0,0,0.6);
+
+}
+button{
+    padding: 13px 21px;
+    background: dodgerblue;
+    border: none;
+    font-size: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+button:hover{
+    background: lightseagreen;
+}
+.sec2{
+    height: 100%;
+    text-align: center;
+    background: white;
+    background-attachment: fixed;
+
+}
+.sec2 h1{
+    display: inline-block;
+    color: rgb(0,0,0,0.7);
+    border-bottom: 2px solid grey;
+}
+.man2{
+    width: 80%;
+    margin: auto;
+
+}
+.block{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding: 25px;
+    text-align: left;
+}
+.block div{
+    margin-top: 10px;
+    width: 90%;
+    display: inline-block;
+    font-size: 18px;
+}
+.block a{
+
+    color: black;
+}
+.her{
+    text-align: center;
+    vertical-align: 10px;
+
+}
+.her div a:hover{
+    padding: 10px;
+    background: lightgray;
+}
+#ha{
+    padding-top: 40px;
+    height: 290px;
+    background: yellow;
+    margin-top: 80px;
+    vertical-align: baseline;
+    padding-left: 160px;
+}
+
+.block p{
+    width: 70%;
+    margin: 0px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(0,0,0,0.8);
+}
+#ha img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+footer{
+    background: rgb(0,0,0,0.1);
+    color: rgb(0,0,0,0.6);
+
+
+}
+.foot{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.foot div{
+    display: inline-block;
+    padding: 30px;
+
+}
